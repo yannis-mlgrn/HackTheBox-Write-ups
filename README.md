@@ -13,6 +13,7 @@ The repository is organized into directories based on the difficulty level and t
 - **Starting-Point**: Write-ups for the Starting Point series, which are beginner-friendly machines designed to introduce basic concepts and techniques.
   - [Appointment](./Starting-Point/Appointment/Write-up.md)
   - [Fawn](./Starting-Point/Fawn/Write-up.md)
+  - [Meow](./Starting-Point/Meow/Write-up.md)
   - ...more write-ups...
 
 ## Purpose
